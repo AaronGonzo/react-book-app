@@ -1,2 +1,0 @@
-# react-book-app
-classwork
